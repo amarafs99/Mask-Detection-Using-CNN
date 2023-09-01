@@ -40,7 +40,7 @@ This code demonstrates how to perform real-time mask detection using a webcam. I
 ### Installation
 
 1. Clone this repository:
-git clone https://github.com/amarafs99/mask-detection-webcam.git
+git clone https://github.com/amarafs99/Mask-Detection-Using-CNN.git
 
 
 ## Training the Mask Detection Model
